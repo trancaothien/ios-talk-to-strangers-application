@@ -1,0 +1,9 @@
+sources:
+  - Strangers/Sources
+templates:
+  - tools/sourcery/templates
+output:
+  StrangersTests/Sources/Mocks/Sourcery 
+args:
+  autoMockableTestableImports:
+    - Strangers
