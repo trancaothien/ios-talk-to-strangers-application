@@ -9,7 +9,6 @@ excluded:
   - Pods
   - Derived
   - DerivedData
-  - ArkanaKeys
 
 opt_in_rules:
   - array_init
