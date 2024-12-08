@@ -10,7 +10,7 @@ extension UIView {
         do {
             try views.forEach(addSubview)
         } catch {
-            print("Add subviews is error: \n")
+            print("Adding subviews is error: \n")
             print(error)
         }
     }
