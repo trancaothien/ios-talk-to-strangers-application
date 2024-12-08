@@ -8,6 +8,5 @@ import Quick
 
 final class NetworkAPISpec: AsyncSpec {
 
-    override class func spec() {
-    }
+    override class func spec() {}
 }

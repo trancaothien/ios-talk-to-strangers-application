@@ -8,6 +8,5 @@ import Quick
 
 final class OptionalUnwrapSpec: QuickSpec {
 
-    override class func spec() {
-    }
+    override class func spec() {}
 }

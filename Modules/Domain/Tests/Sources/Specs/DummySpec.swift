@@ -4,6 +4,5 @@ import Quick
 
 final class DummySpec: QuickSpec {
 
-    override class func spec() {
-    }
+    override class func spec() {}
 }

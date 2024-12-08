@@ -7,6 +7,5 @@ import Quick
 
 final class ApplicationSpec: KIFSpec {
 
-    override class func spec() {
-    }
+    override class func spec() {}
 }
